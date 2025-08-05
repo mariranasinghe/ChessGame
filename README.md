@@ -2,6 +2,8 @@
 
 <img width="611" height="795" alt="image" src="https://github.com/user-attachments/assets/f774b80b-3668-413e-ae03-9526d4d9a5b1" />
 
+
+
 A modern, feature-rich web-based chess application built with Next.js, React, and TypeScript. 
 Play against a friend in local multiplayer, challenge an AI opponent with adjustable difficulty,
 or test your skills against the clock with timed game options.
@@ -43,3 +45,23 @@ Follow these instructions to set up and run the project locally.
     ```bash
     git clone <your-repo-url>
     cd enhanced-chess-game
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   # OR
+   yarn install
+   # OR
+   pnpm install
+
+### Running Locally
+
+1. **Start the development server:**
+   ```bash
+   npm run dev
+   # OR
+   yarn dev
+   # OR
+   pnpm dev
+
+2. **Open your browser and navigate to `http://localhost:3000` to play the game.**
